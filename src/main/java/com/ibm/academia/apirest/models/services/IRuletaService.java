@@ -1,4 +1,4 @@
-package com.ibm.academia.apirest.services;
+package com.ibm.academia.apirest.models.services;
 
 import java.util.List;
 import java.util.Optional;

@@ -1,4 +1,4 @@
-package com.ibm.academia.apirest.services.impl;
+package com.ibm.academia.apirest.models.services.impl;
 
 import java.util.List;
 import java.util.Optional;
@@ -7,8 +7,8 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import com.ibm.academia.apirest.models.entitie.Ruleta;
-import com.ibm.academia.apirest.repository.RuletaRepository;
-import com.ibm.academia.apirest.services.IRuletaService;
+import com.ibm.academia.apirest.models.repository.RuletaRepository;
+import com.ibm.academia.apirest.models.services.IRuletaService;
 
 @Service
 public class RuletaServiceImpl implements IRuletaService {

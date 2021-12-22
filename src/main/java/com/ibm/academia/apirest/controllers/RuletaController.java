@@ -15,7 +15,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.ibm.academia.apirest.exceptions.NotFoundException;
 import com.ibm.academia.apirest.models.entitie.Ruleta;
-import com.ibm.academia.apirest.services.IRuletaService;
+import com.ibm.academia.apirest.models.services.IRuletaService;
 
 import io.swagger.annotations.Api;
 import io.swagger.annotations.ApiOperation;

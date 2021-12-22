@@ -1,0 +1,1 @@
+INSERT INTO ruletas (numero_ruletas, usuario_creacion, fecha_creacion) VALUES(1, 'hector',NOW());

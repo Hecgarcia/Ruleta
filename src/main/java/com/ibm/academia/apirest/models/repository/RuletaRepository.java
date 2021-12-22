@@ -1,4 +1,4 @@
-package com.ibm.academia.apirest.repository;
+package com.ibm.academia.apirest.models.repository;
 
 import org.springframework.data.repository.PagingAndSortingRepository;
 import org.springframework.stereotype.Repository;
